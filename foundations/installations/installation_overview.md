@@ -59,6 +59,12 @@ If you don't have an Apple computer, you are likely using Windows. Don't worry! 
 
 Modifying or dual-booting a computer to work with the tools you'll need will make it much easier to start programming, help create a distraction-free environment, and look good on your resume. Take a deep breath, and let's look at your options.
 
+### I don't have a PC, I only use Android phone or tablet.
+
+It's understandable that some of you doesn't have an access to desktop because of personal issues like financial incapability to afford one or you are in the vacation but you still want to proceed using your handheld device.
+
+.[Termux](https://f-droid.org/en/packages/com.termux/) is an application for Android to emulate Linux environment which is a pre exquisite requirements for you to proceed.
+
 Still not convinced? Here are a few great reasons to install Linux:
 
 - **Tested** - We've tested our directions with macOS, Ubuntu (and official Ubuntu flavors) and WSL2. We did the research so that you can get tools installed with as few issues as possible, getting you to coding sooner. Time spent wrestling with your operating system is time taken from learning how to code.
